@@ -1,0 +1,31 @@
+body {
+    min-width: 525px;
+    min-height: 128px;
+}
+
+.preloader {
+    width: 128px;
+    height: 128px;
+}
+
+.review-button-add {
+    float: none;
+    right: 0;
+}
+
+.opinion .avatar + * {
+    float: none;
+    margin-left: 70px;
+}
+
+.collapse {
+    display: block;
+}
+
+.navbar-nav > li {
+    float: left;
+}
+
+.sublink{
+    margin-bottom: 10px;
+}
